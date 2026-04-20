@@ -17,7 +17,7 @@
                             <div class="col-lg-6">
                                 <h5 class="mb-3">
                                     @if ($role === 'pemohon')
-                                        Maklumat Kerja Selenggara (Pemohon)
+                                        PERMOHONAN ASET BAHARU (Pemohon)
                                     @elseif($role === 'penilai')
                                         Semakan Teknikal (Penilai)
                                     @elseif($role === 'pengesah')
